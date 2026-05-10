@@ -1,6 +1,6 @@
-# LeetPal
+<img src="logo.png" alt="LeetPal Icon" width="120" />
 
-<p align="center"><img src="logo.png" alt="LeetPal Icon" width="120" /></p>
+# LeetPal
 
 LeetPal is a Chrome extension for people who practice coding problems on LeetCode and want their practice to feel less random.
 
