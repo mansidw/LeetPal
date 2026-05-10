@@ -1,5 +1,6 @@
 # LeetPal
 
+![LeetPal Icon](logo.png)
 LeetPal is a Chrome extension for people who practice coding problems on LeetCode and want their practice to feel less random.
 
 Most learners do not struggle because there are too few problems. They struggle because it is hard to know what to solve next. LeetCode tags are broad, lists are static, and "similar problems" often share a topic without training the same underlying idea.
