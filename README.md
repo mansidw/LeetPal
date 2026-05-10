@@ -1,4 +1,4 @@
-# LeetPal Product Overview
+# LeetPal
 
 LeetPal is a Chrome extension for people who practice coding problems on LeetCode and want their practice to feel less random.
 
